@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="admin_title">Espace administrateur</string>
+    <string name="admin_subtitle">Pilotez le dataset, le modèle et les exécutions depuis une seule page.</string>
+    <string name="admin_dashboard_title">Vue globale</string>
+    <string name="admin_data_title">Données &amp; ML</string>
+    <string name="admin_results_title">Résultats</string>
+    <string name="admin_jobs_title">Historique des exécutions</string>
+    <string name="admin_profile_title">Profil admin</string>
+    <string name="admin_refresh">Actualiser</string>
+    <string name="admin_import_dataset">Importer le dataset</string>
+    <string name="admin_launch_train">Lancer l’entraînement</string>
+    <string name="admin_launch_evaluate">Lancer l’évaluation</string>
+    <string name="admin_load_eval">Voir l’évaluation</string>
+    <string name="admin_load_train">Voir le train</string>
+    <string name="admin_logout">Se déconnecter</string>
+    <string name="admin_dataset_name_hint">Nom du dataset</string>
+    <string name="admin_dataset_url_hint">URL du fichier CSV</string>
+    <string name="admin_status_api">API</string>
+    <string name="admin_status_model">Modèle</string>
+    <string name="admin_status_dataset">Dataset actif</string>
+    <string name="admin_status_last_training">Dernier résumé</string>
+    <string name="admin_result_summary_default">Aucun résultat chargé pour le moment.</string>
+    <string name="admin_metrics_empty">Les métriques apparaîtront ici après un entraînement ou une évaluation.</string>
+    <string name="admin_jobs_empty">Aucun job enregistré pour le moment.</string>
+    <string name="admin_role_label">Rôle administrateur</string>
+    <string name="admin_dataset_name_default">Aucun dataset actif</string>
+    <string name="admin_dataset_update_default">Dernière mise à jour indisponible</string>
+    <string name="admin_model_default">Modèle non initialisé</string>
+    <string name="admin_metric_value">%1$s : %2$s</string>
+    <string name="admin_job_title">%1$s • %2$s</string>
+    <string name="admin_job_subtitle">Début : %1$s</string>
+    <string name="admin_job_meta">Durée : %1$s</string>
+    <string name="admin_duration_unknown">inconnue</string>
+    <string name="admin_dataset_imported">Dataset importé avec succès.</string>
+    <string name="admin_action_success">Action lancée avec succès.</string>
+    <string name="admin_input_required">Veuillez renseigner le nom du dataset et son URL.</string>
+</resources>

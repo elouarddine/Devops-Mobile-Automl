@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Transparent base to keep space -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@android:color/transparent"/>
+        </shape>
+    </item>
+
+    <!-- Bottom line -->
+    <item android:gravity="bottom">
+        <shape android:shape="rectangle">
+            <size android:height="2dp"/>
+            <solid android:color="@color/ps_primary"/>
+        </shape>
+    </item>
+
+</layer-list>

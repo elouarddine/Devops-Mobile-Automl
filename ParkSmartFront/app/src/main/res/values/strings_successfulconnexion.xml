@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Titre général -->
+    <string name="success_title">Bienvenue, %1$s !</string>
+    <string name="success_title_no_name">Bienvenue !</string>
+
+    <!-- Message commun -->
+    <string name="success_connected">Vous êtes connecté avec succès.</string>
+
+    <!-- Rôle utilisateur -->
+    <string name="success_user_subtitle">Préparation de votre espace utilisateur…</string>
+    <string name="success_user_message">Vous pouvez maintenant commencer à rechercher des parkings proches et consulter la disponibilité estimée.</string>
+
+    <!-- Rôle administrateur -->
+    <string name="success_admin_subtitle">Connexion administrateur réussie.</string>
+    <string name="success_admin_message">Votre tableau de bord est en cours de préparation pour gérer les données et suivre l’activité de la plateforme.</string>
+
+    <!-- Petit texte de transition -->
+    <string name="success_redirecting">Redirection en cours…</string>
+
+</resources>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Fond principal -->
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:angle="270"
+                android:startColor="#09111F"
+                android:endColor="#060B15"
+                android:type="linear" />
+        </shape>
+    </item>
+
+    <!-- Halo haut centre -->
+    <item
+        android:left="40dp"
+        android:right="40dp"
+        android:top="40dp"
+        android:bottom="500dp">
+        <shape android:shape="oval">
+            <gradient
+                android:type="radial"
+                android:centerX="0.5"
+                android:centerY="0.3"
+                android:gradientRadius="220dp"
+                android:startColor="#262F5FE6"
+                android:centerColor="#184C7DFF"
+                android:endColor="#00000000" />
+        </shape>
+    </item>
+
+    <!-- Décor gauche -->
+    <item
+        android:left="-60dp"
+        android:top="170dp">
+        <shape android:shape="oval">
+            <size
+                android:width="180dp"
+                android:height="180dp" />
+            <solid android:color="#142F5FE6" />
+        </shape>
+    </item>
+
+    <!-- Décor droite -->
+    <item
+        android:right="-90dp"
+        android:top="120dp">
+        <shape android:shape="oval">
+            <size
+                android:width="200dp"
+                android:height="200dp" />
+            <solid android:color="#124C7DFF" />
+        </shape>
+    </item>
+
+    <!-- Bas principal -->
+    <item
+        android:left="-140dp"
+        android:bottom="-220dp">
+        <shape android:shape="oval">
+            <size
+                android:width="430dp"
+                android:height="290dp" />
+            <solid android:color="#182F5FE6" />
+        </shape>
+    </item>
+
+    <!-- Bas secondaire -->
+    <item
+        android:right="-150dp"
+        android:bottom="-220dp">
+        <shape android:shape="oval">
+            <size
+                android:width="420dp"
+                android:height="300dp" />
+            <solid android:color="#144C7DFF" />
+        </shape>
+    </item>
+
+</layer-list>

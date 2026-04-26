@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="nav_history">Historique</string>
+    <string name="nav_saved">Sauvegardés</string>
+    <string name="nav_profile">Profil</string>
+
+    <string name="filter_all">Tous</string>
+    <string name="filter_near_me">Près de moi</string>
+    <string name="filter_nearest">Plus proche</string>
+    <string name="filter_cheapest">Moins cher</string>
+    <string name="filter_availability">Dispo ↑</string>
+
+    <string name="home_search_placeholder">Rechercher une adresse…</string>
+    <string name="home_saved_title">Parkings sauvegardés</string>
+    <string name="home_saved_subtitle">Retrouve ici les parkings que tu gardes sous la main.</string>
+    <string name="home_results_title">Parkings proches</string>
+    <string name="home_results_subtitle">Résultats autour de %1$s</string>
+    <string name="home_empty_saved_title">Aucun parking sauvegardé</string>
+    <string name="home_empty_saved_subtitle">Lance une recherche puis appuie sur le signet pour garder un parking.</string>
+    <string name="home_empty_results_title">Aucun parking trouvé</string>
+    <string name="home_empty_results_subtitle">Essaie une autre adresse ou élargis la zone de recherche côté API.</string>
+
+    <string name="home_map_chip_default">Carte prête</string>
+
+    <string name="home_map_chip_saved">Sauvegardes</string>
+    <string name="home_saved_map_title">Vos parkings enregistrés</string>
+    <string name="home_saved_map_subtitle">Retrouvez ici vos parkings sauvegardés et ouvrez leurs détails en un geste.</string>
+    <string name="home_saved_map_recommendation">Touchez un marqueur ou ouvrez le panneau pour consulter vos parkings enregistrés.</string>
+    <string name="home_map_chip_results">%1$d parkings trouvés</string>
+    <string name="home_map_title_default">Trouve un parking près de ta destination</string>
+    <string name="home_map_subtitle_default">Appuie sur la barre de recherche puis saisis une adresse pour afficher les parkings proches.</string>
+    <string name="home_map_subtitle_results">%1$d résultat(s) chargés près de ce lieu</string>
+    <string name="home_map_recommendation_default">Touchez la carte pour la reprendre en plein visuel, ou ouvrez une recherche pour afficher des parkings proches.</string>
+    <string name="home_map_recommendation">Parking recommandé : %1$s</string>
+    <string name="home_map_recommendation_fallback">Aucun parking recommandé n’a été renvoyé cette fois.</string>
+
+    <string name="action_save">Sauvegarder</string>
+    <string name="action_details">Détails</string>
+    <string name="action_clear_history">Tout supprimer</string>
+    <string name="action_clear_saved">Tout supprimer</string>
+
+    <string name="search_hint">Saisir une adresse, un campus, une gare…</string>
+    <string name="search_history_title">Historique récent</string>
+    <string name="search_empty_title">Aucune recherche enregistrée</string>
+    <string name="search_empty_subtitle">Tes dernières recherches apparaîtront ici.</string>
+
+    <string name="action_close">Fermer</string>
+    <string name="action_remove">Supprimer</string>
+
+    <string name="profile_summary_counts">%1$d sauvegarde(s) • %2$d recherche(s)</string>
+    <string name="profile_email_placeholder">Identifiant utilisateur non chargé</string>
+
+    <string name="search_arrival_title">Quand pensez-vous arriver ?</string>
+    <string name="search_action">Lancer la recherche</string>
+    <string name="detail_save">Sauvegarder ce parking</string>
+</resources>

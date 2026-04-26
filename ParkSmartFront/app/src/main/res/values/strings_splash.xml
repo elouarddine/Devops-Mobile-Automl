@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmartParking</string>
+
+    <string name="splash_title">SmartParking</string>
+    <string name="splash_subtitle">Trouvez une place proche, au bon prix et sans perdre de temps</string>
+    <string name="splash_desc">Consultez la disponibilité estimée, comparez rapidement les parkings et stationnez plus sereinement au quotidien.</string>
+
+    <string name="starting_title">Bienvenue sur SmartParking</string>
+    <string name="starting_subtitle">Trouvez un parking proche et consultez rapidement la disponibilité estimée.</string>
+
+    <string name="starting_user_title">Espace utilisateur</string>
+    <string name="starting_user_desc">Cherchez un parking proche et retrouvez vos recherches récentes.</string>
+
+    <string name="starting_admin_title">Espace administrateur</string>
+    <string name="starting_admin_desc">Gérez les données et suivez l’activité de la plateforme.</string>
+
+    <string name="starting_footer_hint">Connexion sécurisée</string>
+    <string name="starting_button">Continuer</string>
+</resources>

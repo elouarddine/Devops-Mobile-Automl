@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Spacings -->
+    <dimen name="space_xs">6dp</dimen>
+    <dimen name="space_s">10dp</dimen>
+    <dimen name="space_m">14dp</dimen>
+    <dimen name="space_l">20dp</dimen>
+    <dimen name="space_xl">30dp</dimen>
+    <dimen name="space_xxl">60dp</dimen>
+
+    <!-- Radius -->
+    <dimen name="radius_m">14dp</dimen>
+    <dimen name="radius_l">18dp</dimen>
+    <dimen name="radius_xl">22dp</dimen>
+
+    <!-- Text sizes -->
+    <dimen name="text_title">32sp</dimen>
+    <dimen name="text_title_land">60sp</dimen>
+
+    <dimen name="text_subtitle">16sp</dimen>
+    <dimen name="text_subtitle_land">30sp</dimen>
+
+    <dimen name="auth_wave_height">1000dp</dimen>
+
+    <dimen name="auth_header_height">180dp</dimen>
+
+
+
+
+
+
+    
+    <!-- Home -->
+    <dimen name="bottom_nav_height">72dp</dimen>
+    <dimen name="home_sheet_peek_collapsed">132dp</dimen>
+
+</resources>

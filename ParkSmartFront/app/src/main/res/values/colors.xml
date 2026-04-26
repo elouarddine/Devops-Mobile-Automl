@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Brand (Blue/Teal modern) -->
+    <color name="ps_primary">#2563EB</color>          <!-- Blue 600 -->
+    <color name="ps_primary_dark">#1D4ED8</color>     <!-- Blue 700 -->
+    <color name="ps_primary_container">#DBEAFE</color> <!-- Blue 100 -->
+    <color name="ps_on_primary_container">#0B2A6F</color>
+
+    <!-- Secondary (Teal) -->
+    <color name="ps_secondary">#14B8A6</color>         <!-- Teal 500 -->
+    <color name="ps_secondary_soft">#99F6E4</color>    <!-- Teal 200 -->
+
+    <!-- Surfaces -->
+    <color name="ps_bg">#F6F9FF</color>
+    <color name="ps_bg_top">#EEF5FF</color>
+    <color name="ps_bg_bottom">#F8FAFF</color>
+
+    <color name="ps_surface">#FFFFFF</color>
+    <color name="ps_surface_tint">#F1F5FF</color>
+
+    <!-- Text -->
+    <color name="ps_text">#0F172A</color>
+    <color name="ps_text_muted">#64748B</color>
+
+    <!-- Borders / states -->
+    <color name="ps_outline">#D6DEEE</color>
+    <color name="ps_error">#DC2626</color>
+    <color name="ps_success">#16A34A</color>
+
+    <!-- Background blobs (subtle) -->
+    <color name="ps_blob_1">#1A2563EB</color>  <!-- 10% blue -->
+    <color name="ps_blob_2">#1A14B8A6</color>  <!-- 10% teal -->
+
+    <!-- Wave (LIGHT) -->
+    <color name="ps_wave_top">#1D4ED8</color>
+    <color name="ps_wave_mid">#2DD4BF</color>
+    <color name="ps_wave_mid_alpha">#CC2DD4BF</color>
+    <color name="ps_wave_white">#FFFFFF</color>
+    <color name="ps_wave_white_alpha">#E6FFFFFF</color>
+
+    <!-- On-wave text -->
+    <color name="ps_on_wave">#FFFFFF</color>
+    <color name="ps_on_wave_muted">#CCFFFFFF</color>
+
+    <color name="ps_chip_bg">#00000000</color>
+
+
+
+</resources>

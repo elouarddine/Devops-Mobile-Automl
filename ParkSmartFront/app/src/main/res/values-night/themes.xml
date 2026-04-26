@@ -1,0 +1,35 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.ParkSmart" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <!-- Brand (identique) -->
+        <item name="colorPrimary">@color/ps_primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryContainer">@color/ps_primary_container</item>
+        <item name="colorOnPrimaryContainer">@color/ps_on_primary_container</item>
+
+        <!-- Surfaces (couleurs overridées dans values-night/colors.xml) -->
+        <item name="android:colorBackground">@color/ps_bg</item>
+        <item name="colorSurface">@color/ps_surface</item>
+        <item name="colorOnSurface">@color/ps_text</item>
+        <item name="colorOutline">@color/ps_outline</item>
+
+        <!-- Fenêtre -->
+        <item name="android:windowBackground">@color/ps_bg</item>
+
+        <!-- Status/Nav bars (nuit) -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@color/ps_bg</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">false</item>
+        <item name="android:windowLightNavigationBar" tools:targetApi="o_mr1">false</item>
+
+        <!-- Styles -->
+        <item name="materialButtonStyle">@style/Widget.ParkSmart.Button</item>
+        <item name="textInputStyle">@style/Widget.ParkSmart.TextInput</item>
+
+        <item name="android:forceDarkAllowed" tools:targetApi="q">false</item>
+    </style>
+
+    <style name="Theme.ParkSmart" parent="Base.Theme.ParkSmart" />
+
+</resources>
