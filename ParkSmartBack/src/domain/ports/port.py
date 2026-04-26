@@ -1,0 +1,6 @@
+from typing import Protocol
+
+
+class AutoMLPort(Protocol):
+    def train(self, dataset_path: str | None = None) -> dict: ...
+    def evaluate(self, dataset_path: str | None = None) -> dict: ...
