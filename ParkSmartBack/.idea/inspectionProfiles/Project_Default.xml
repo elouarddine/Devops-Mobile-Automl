@@ -1,0 +1,41 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredPackages">
+        <list>
+          <option value="openai-whisper" />
+          <option value="torch" />
+          <option value="fastapi" />
+          <option value="uvicorn" />
+          <option value="python-multipart" />
+          <option value="pyttsx3" />
+          <option value="requests" />
+          <option value="ffmpeg" />
+          <option value="speechrecognition" />
+          <option value="ollama" />
+          <option value="imageio-ffmpeg" />
+          <option value="python-dotenv" />
+          <option value="sqlalchemy" />
+          <option value="psycopg2-binary" />
+          <option value="pydantic" />
+          <option value="python-docx" />
+          <option value="docling" />
+          <option value="soundfile" />
+          <option value="faster-whisper" />
+          <option value="huggingface_hub" />
+          <option value="transformers" />
+          <option value="bcrypt" />
+          <option value="python-jose" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="src.automl.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
